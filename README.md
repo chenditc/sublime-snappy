@@ -6,7 +6,7 @@ Reads Snappy files in Sublime Text. Snappy files are opened in read-only mode.
 
 # Installation
 **via Package Control**
-
+(Not ready yet)
 1. Make sure you have [Package Control](https://packagecontrol.io/installation) installed.
 2. Open the Command Palette (`command-shift-P` on macOS; `ctrl-shift-P` on Ubuntu) and choose _Install Package_.
 3. Choose _Snappy_ from the list.
