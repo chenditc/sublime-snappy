@@ -2,7 +2,7 @@
 Reads Snappy files in Sublime Text. Snappy files are opened in read-only mode.
 
 # Screenshot
-![screenshot](https://raw.github.com/chenditc/sublime-snappy/master/screenshot.png)
+![screenshot](https://raw.github.com/chenditc/sublime-snappy/master/screenshot.jpg)
 
 # Installation
 **via Package Control**
